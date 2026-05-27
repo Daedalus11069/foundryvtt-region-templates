@@ -1,0 +1,23 @@
+{
+  "id": "region-templates",
+  "title": "Region Templates",
+  "description": "A Foundry VTT v13 module for saving and applying Region Behavior templates.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Your Name"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": ["module.js"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
